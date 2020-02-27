@@ -1,0 +1,13 @@
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadTxt\ReadTxt\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadTxt\ReadTxt\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadTxt\ReadTxt\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadTxt\ReadTxt\bin\Debug\netcoreapp2.2\ReadTxt.deps.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadTxt\ReadTxt\bin\Debug\netcoreapp2.2\ReadTxt.runtimeconfig.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadTxt\ReadTxt\bin\Debug\netcoreapp2.2\ReadTxt.runtimeconfig.dev.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadTxt\ReadTxt\bin\Debug\netcoreapp2.2\ReadTxt.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadTxt\ReadTxt\obj\Debug\netcoreapp2.2\ReadTxt.csprojAssemblyReference.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadTxt\ReadTxt\obj\Debug\netcoreapp2.2\ReadTxt.RazorAssemblyInfo.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadTxt\ReadTxt\obj\Debug\netcoreapp2.2\ReadTxt.RazorAssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadTxt\ReadTxt\obj\Debug\netcoreapp2.2\ReadTxt.AssemblyInfoInputs.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadTxt\ReadTxt\obj\Debug\netcoreapp2.2\ReadTxt.AssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadTxt\ReadTxt\obj\Debug\netcoreapp2.2\ReadTxt.RazorTargetAssemblyInfo.cache
