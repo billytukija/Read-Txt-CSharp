@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\ReadTxt\\ReadTxt\\ReadTxt.csproj": {}
+    "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\Read-Txt-CSharp\\ReadTxt\\ReadTxt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\ReadTxt\\ReadTxt\\ReadTxt.csproj": {
+    "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\Read-Txt-CSharp\\ReadTxt\\ReadTxt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\ReadTxt\\ReadTxt\\ReadTxt.csproj",
+        "projectUniqueName": "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\Read-Txt-CSharp\\ReadTxt\\ReadTxt.csproj",
         "projectName": "ReadTxt",
-        "projectPath": "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\ReadTxt\\ReadTxt\\ReadTxt.csproj",
+        "projectPath": "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\Read-Txt-CSharp\\ReadTxt\\ReadTxt.csproj",
         "packagesPath": "C:\\Users\\billy.tukija\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\ReadTxt\\ReadTxt\\obj\\",
+        "outputPath": "C:\\Users\\billy.tukija\\Documents\\Repositories\\GitHub\\Contribuitions\\BackEnd\\CSharp\\Read-Txt-CSharp\\ReadTxt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
